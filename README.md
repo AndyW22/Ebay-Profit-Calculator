@@ -5,16 +5,16 @@ A simple to use profit calculator when reselling items on ebay or bank transfer.
 - Bank transfer (0 fees)
 - Shpock
 
-##Supported stores for selling:
+## Supported stores for selling:
 
 - Ebay
 - Bank transfer (0 fees)
 
-##Instructions for use
+## Instructions for use
 - `pip install PySimpleGUIQt`
 - `python3 main.pyw`
 
-###Tips:
+### Tips:
 - Delivery cost = the price **you** paid for delivery
 - Shipping surchage = the price the **buyer** paid for delivery
 - Private sellers have a 10% fee, business sellers have different fees based on the [final value fees by category](https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-business-sellers?id=4122)

@@ -12,7 +12,7 @@ A simple to use profit calculator when reselling items on ebay or bank transfer.
 
 ## Instructions for use
 - `pip install PySimpleGUIQt`
-- `python3 main.pyw`
+- `python3 main.py`
 
 ### Tips:
 - Delivery cost = the price **you** paid for delivery
